@@ -10,6 +10,7 @@ https://www.yugongcoding.com/
 ## The Website
 https://www.yugongcoding.com/
 # 使用
+创建团队空间 > 创建知识空间 > 写作
 ## 创建知识库
 ![image](https://github.com/yugongcoding/yugong_wiki/blob/main/1.png)
 ## 写作编辑文章
