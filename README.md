@@ -1,4 +1,6 @@
 # 简介
+## 使用帮助
+https://www.yugongcoding.com/article?teamId=9&bookId=21&articleId=article20240713051049444660&id=30#%E4%BD%BF%E7%94%A8%E9%82%AE%E7%AE%B1%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7
 ## 愚公WIKI
 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
 ## 技术栈
